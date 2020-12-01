@@ -18,3 +18,22 @@ After each word is translated, we then
 Print out the translated sentence to the user.
 
 """
+"""
+main():
+    set dictionary = translate()
+    translate(sentence, dictionary)
+
+translate(sentence, dictionary):
+    words = for each of the word of the list
+    for each words, translate the word
+    print translated sentence to user
+
+create_dictionary(inflie )
+    read in textese.txt
+    creat list = each line from file
+    close the file
+    create dic off to the list
+    return to dict
+
+main:
+"""
